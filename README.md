@@ -9,3 +9,11 @@ My specs:<br>
 - MSI B450M Mortar Max
 - Radeon RX 580
 - 2*8GB HyperX FuryX 3200Hz
+
+Kexts:
+- AppleALC
+- FakeSMC
+- Lilu (and Innie for the NVMe drives)
+- NullEthernet
+- RealtekRTL8111 (patched version so it works with newer bootloaders too)
+- WhateverGreen
