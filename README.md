@@ -17,3 +17,5 @@ Kexts:
 - NullEthernet
 - RealtekRTL8111 (patched version so it works with newer bootloaders too)
 - WhateverGreen
+
+Credit goes to [these](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/misc/credit) guys.
