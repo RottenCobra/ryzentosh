@@ -2,7 +2,7 @@
 
 This is my fully working EFI folder for my Ryzentosh. <br>
 It contains OpenCore 0.5.5 (I havent't update to 0.5.6 yet) and rEFInd 12.0 for multi boot.<br>
-I deleted my serial and UUID so you'll have to generate them using GenSMBIOS for iMacPro1,1 and edit config.plist (PlatformInfo > Generic). It's important to use a valid serial with no valid purchase date to enable iServices.<br>
+I deleted my serial and UUID so you'll have to generate them using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for iMacPro1,1 and edit config.plist (PlatformInfo > Generic). It's important to use a valid serial with no valid purchase date to enable iServices.<br>
 <br>
 My specs:<br>
 - Ryzen 5 3600
